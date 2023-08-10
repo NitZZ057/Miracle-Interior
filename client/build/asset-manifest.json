@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58c8aef6.css",
+    "main.js": "/static/js/main.d8556814.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/remixicon.svg?t=1687271883607": "/static/media/remixicon.636515c9a8963df4380d.svg",
+    "static/media/remixicon.eot?t=1687271883607": "/static/media/remixicon.83e9a22ce7f199999169.eot",
+    "static/media/remixicon.ttf?t=1687271883607": "/static/media/remixicon.0bcb16fc20c3d365da14.ttf",
+    "static/media/corporate.jpg": "/static/media/corporate.0b84d3634061cd684c56.jpg",
+    "static/media/remixicon.woff?t=1687271883607": "/static/media/remixicon.3f0f84f17d39491e07ff.woff",
+    "static/media/work.jpeg": "/static/media/work.f1386ecc0dd5a8325be3.jpeg",
+    "static/media/remixicon.woff2?t=1687271883607": "/static/media/remixicon.85992a032c7668836563.woff2",
+    "static/media/WAbg.jpg": "/static/media/WAbg.c909e0fe02f9cb29bae8.jpg",
+    "static/media/next.png": "/static/media/next.675c24d5953ea0f6344b.png",
+    "index.html": "/index.html",
+    "main.58c8aef6.css.map": "/static/css/main.58c8aef6.css.map",
+    "main.d8556814.js.map": "/static/js/main.d8556814.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58c8aef6.css",
+    "static/js/main.d8556814.js"
+  ]
+}
